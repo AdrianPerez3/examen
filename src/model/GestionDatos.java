@@ -1,5 +1,7 @@
 package model;
 
+//Modificamos el texto jva para que parezca en la nueva rama de examen 2
+
 public class GestionDatos {
 
 	public GestionDatos() {
